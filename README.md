@@ -64,7 +64,7 @@ Para contribuir al proyecto:
 - Agregarlo al client modo Dev
 ```JSON  
     "ChopSetup": {
-      "command": "/Users/lucdelgado/Works/chop-mcp/chop-mcp",
+      "command": "{your}/chop-mcp/chop-mcp",
       "args": []
     }
 ```
